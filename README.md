@@ -22,7 +22,7 @@ The system helps in **early disease detection** and supports farmers and agricul
 The model is built using **TensorFlow/Keras** with multiple **Conv2D** and **MaxPooling layers** to extract features from potato leaf images.
 
 **Model Summary:**
-- **Input Layer** → Resized leaf images (e.g., 128x128x3)  
+- **Input Layer** → Resized leaf images (256x256)  
 - **Convolutional Layers (Conv2D)** → Detect low-level (edges, textures) and high-level (disease spots) features  
 - **Pooling Layers (MaxPooling2D)** → Reduce dimensionality while preserving important features  
 - **Dropout Layers** → Prevent overfitting  
