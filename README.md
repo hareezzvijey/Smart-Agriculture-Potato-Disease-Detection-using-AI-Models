@@ -65,11 +65,11 @@ The model was trained with **categorical cross-entropy loss** and **Adam optimiz
 
 ### 📈 Accuracy Graph
 
-![Accuracy Graph](assets/accuracy.png)
+![Accuracy Graph](accuracy.png)
 
 ### 📉 Loss Graph
 
-![Loss Graph](assets/loss.png)
+![Loss Graph](loss.png)
 
 
 ---
